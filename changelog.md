@@ -1,4 +1,4 @@
-# Changelog
+1# Changelog
 
 All notable changes to this project will be documented in this file.
 
@@ -8,6 +8,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [0.0.1] - 2023-12-04
 
 ### Added
-
 - Added changelog.md 
 
